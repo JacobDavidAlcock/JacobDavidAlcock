@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=58A6FF&width=700&lines=Penetration+Tester+by+day;Software+Engineer+by+night;Always+learning+something+new)
-
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## What I Use
