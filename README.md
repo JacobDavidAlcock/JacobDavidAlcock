@@ -1,4 +1,4 @@
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Coding GIF](https://giphy.com/embed/JIX9t2j0ZTN9S)
 
 ## What I Use
 
